@@ -1,0 +1,6 @@
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

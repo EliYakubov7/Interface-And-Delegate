@@ -5,7 +5,6 @@ using System.Text;
 namespace Ex04.Menus.Interfaces
 {
 
-    // $G$ DSN-008 (-10) You should have used polymorphism to implement the different behavior between a sub menu and the main menu.
     public class MainMenu : IMenu
     {
         private readonly List<IMenuItem> r_MenuItemList = new List<IMenuItem>();

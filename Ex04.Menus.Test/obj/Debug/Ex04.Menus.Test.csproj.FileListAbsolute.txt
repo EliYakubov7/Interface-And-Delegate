@@ -1,0 +1,11 @@
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Projects Github\ELI C#\B19 Ex04 EliyahuYakubov 313268203 BarakAted 313266561\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
