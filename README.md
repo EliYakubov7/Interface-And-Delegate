@@ -3,9 +3,9 @@ Creating menus console application program using interfaces and delegates
 
 ### Screenshots
 
-<img src="https://github.com/EliYakubov7/Interface-And-Delegate/blob/master/screenshots/interface_menu_test.png" width="250" >
-<img src="https://github.com/EliYakubov7/Interface-And-Delegate/blob/master/screenshots/date_and_time.png" width="250" >
-<img src="https://github.com/EliYakubov7/Interface-And-Delegate/blob/master/screenshots/version_and_digit.png" width="250" >
+<img src="https://github.com/EliYakubov7/Interface-And-Delegate/blob/master/screenshots/interface_menu_test.png" width="400" >
+<img src="https://github.com/EliYakubov7/Interface-And-Delegate/blob/master/screenshots/date_and_time.png" width="400" >
+<img src="https://github.com/EliYakubov7/Interface-And-Delegate/blob/master/screenshots/version_and_digit.png" width="400" >
 
 ## Authors
 
